@@ -452,6 +452,7 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 
 .skillz li {
+  font-weight: bold;
    display: inline-block;
    margin: 0 10px;
    padding: 0;
