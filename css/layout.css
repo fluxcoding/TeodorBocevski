@@ -177,7 +177,8 @@ ul#nav li.current a { color: #F06000; }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
 #about h2 {
-   font: 22px/30px 'opensans-bold', sans-serif;
+   font: 22px/30px;
+   font-family: 'Roboto Slab', serif; 
    color: #fff;
    margin-bottom: 12px;
 }
@@ -585,3 +586,7 @@ footer .social-links li:first-child { margin-left: 0; }
    background:#f2f2f2;
 }
 
+
+.fontce{
+  font-family: 'Roboto Slab', serif;
+}
